@@ -1,0 +1,1 @@
+web: gnuicorn coffeed.wsgi --log-file -
